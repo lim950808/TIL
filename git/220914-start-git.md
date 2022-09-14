@@ -1,21 +1,21 @@
 ## Today I Learned
 
 ### Linux Commands
-	- ls (List)
-	- ls -a
-	- ls -l
-	- ls -la
-	- cd (Change Directory)
-	- mkdir
-	- pwd (Print Working Directory)
-	- touch (making a file)
-	- mv (move)
-	- cp (copy)
-	- rm (remove)
-	- * (all)
-	- rm *.go (remove all of files with .go)
-	- vi main.py (go to Vi Editor for main.py)
-	- cat (check md)
+- ls (List)
+- ls -a
+- ls -l
+- ls -la
+- cd (Change Directory)
+- mkdir
+- pwd (Print Working Directory)
+- touch (making a file)
+- mv (move)
+- cp (copy)
+- rm (remove)
+- * (all)
+- rm *.go (remove all of files with .go)
+- vi main.py (go to Vi Editor for main.py)
+- cat (check md)
 
 
 ### Vim modes
