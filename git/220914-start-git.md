@@ -1,6 +1,6 @@
 ## Today I Learned
 
-### Linux Commands
+### Linux Commands (리눅스 명령어)
 - ls (List)
 - ls -a
 - ls -l
@@ -25,14 +25,14 @@
 - Command mode (press : on normal mode)
 
 
-### Vim Commands
+### Vim Commands (Vim 명령어)
 - hjkl (Arrow keys)
 - y (yank)
 - p (paste)
 - d (delete)
 - To quit the Vi Editor, press Esc and type :wq
 
-### Git Commands
+### Git Commands (Git 명령어)
 - git -v (version check for Git)
 - git coonfig --list
 - $ git config --global user.name "My UserName"
